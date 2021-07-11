@@ -13,7 +13,7 @@ The main purpose of our analysis is to employ machine learning techniques to a c
 
 ## Results
 
-####Oversampling 
+#### Oversampling 
 
 **1- Naive Random Oversampling**
 
